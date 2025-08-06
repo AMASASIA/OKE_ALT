@@ -60,4 +60,4 @@ npm run dev
 ## 📫 お問い合わせ / Contact
 
 - Author: AMASASIA  
-- Mail: [your_email@example.com]
+- Mail: [info@amas.asia]
